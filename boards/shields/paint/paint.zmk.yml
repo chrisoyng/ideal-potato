@@ -1,0 +1,10 @@
+file_format: "1"
+id: paint
+name: Paint
+type: shield
+url: https://github.com/chrisoyng/ideal-potato
+requires: [pro_micro]
+exposes:
+features:
+  - keys
+  - encoder
